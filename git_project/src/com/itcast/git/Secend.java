@@ -5,5 +5,6 @@ public class Secend {
         System.out.println("add");
         System.out.println("haode");
         System.out.println("yes");
+         System.out.println("");
     }
 }
