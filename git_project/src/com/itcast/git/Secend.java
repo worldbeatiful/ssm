@@ -7,5 +7,6 @@ public class Secend {
         System.out.println("yes");
          System.out.println("");
         System.out.println("i don't know");
+        System.out.println("where");
     }
 }
